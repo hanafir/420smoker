@@ -1,14 +1,13 @@
 class Translation(object):
     START_TEXT = """Halo kakakz <i><b>{}</b></i>,
 
-This is a APK MOD Indonesia Renamer bot ✍ by <a href='https://t.me/hanafii'>big papa 👨‍🏫</a>
+This is a 420 SMOKER PROJECT Renamer APK BOT ✍ by <a href='https://t.me/hanafii'>big papa 👨‍🏫</a>
 
 I can rename ✍ with custom thumbnail and upload as video/file
 
 **
-- APKMOD
-- Salam Sehat , Santuy , Ceriaa , Cerita Bareng
-- Selamat Berkarya 🙏
+- 420 SMOKER Project
+- Santuuuuuuyyyyyyyyyyyyyy keep green
 **
 
 Type /help for more details."""
