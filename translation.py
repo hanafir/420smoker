@@ -20,7 +20,7 @@ Type /help for more details."""
     UPLOAD_START_VIDEO = "Sedang Mengunggah.....📤"
     UPLOAD_START = "Sedang Mengunggah.....📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 🤷‍♂️."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thanks for using this BOT | Credits ©️ <code>@apkmodindo_bot | @Editor_Indonesia</code> </b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thanks for using this BOT | Credits ©️ <code>@forthtwentytwo_smokerbot | @i420Smoker</code> </b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/anonymousbotdiscussion'>Ns Bot Supporters</a>"
@@ -28,12 +28,12 @@ Type /help for more details."""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = " | <b>Join for more | @Editor_Indonesia | APK MOD INDONESIA</b> | "
+    CUSTOM_CAPTION_UL_FILE = " | <b>Join for more | @i420Smoker | 420 SMOKER Project ©️</b> | "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am APK MOD Indonesia Renamer bot ✍ by <a href='https://t.me/hanafii'>big papa 👨‍🏫</a>
+I am 420 SMOKER PROJECT Renamer APK BOT ✍ by <a href='https://t.me/hanafii'>big papa 👨‍🏫</a>
     
 1. Send Me A Thumbnail.
 
@@ -44,11 +44,11 @@ I am APK MOD Indonesia Renamer bot ✍ by <a href='https://t.me/hanafii'>big pap
 4. Reply to that message with <code>/rename_vidoe new name.extension</code>. with custom thumbnail support.\n(uploading as Video)
 
    
-<b>Thanks to <i><a href="https://t.me/hanafii">Hanafi 👨‍🏫</a></i> for his build into APK MOD Indo Bot Renamer. check /about for source code</b>
+<b>Thanks to <i><a href="https://t.me/hanafii">Hanafi 👨‍🏫</a></i> for his build into 420 Smoker Bot APK Renamer. check /about for source code</b>
 
 --------
 
-Support Group : @Editor_Indonesia"""
+Support Group : @i420Smoker"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "🤦‍♂️ Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.\n\n(For uploading as file).\n\nSee /help for mor information. "
     REPLY_TO_DOC_FOR_RENAME_VIDEO = "🤦‍♂️ Reply to a Telegram media to `/rename_video New Name.extension` with custom thumbnail support.\n\n(For uploading as video).\n\nSee /help for mor information."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
@@ -59,7 +59,7 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@apkmodindo_bot</code>
+©️ <code>@forthtwentytwo_smokerbot</code>
 Please short your file name and try again!"""
 
     About = """Hi __{}__,
@@ -69,6 +69,6 @@ Please short your file name and try again!"""
 
 **👨‍💻 Developer:** [Hanafi](https://t.me/hanafii)
 
-**👥 Group:** [APK MOD Indonesia](https://t.me/Editor_Indonesia)
+**👥 Channel:** [420 Smoker Project](https://t.me/i420Smoker)
 
 **💻 Source Code:** [Press Me](https://github.com/hanafir/renamer)"""
